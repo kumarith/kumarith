@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 -->
 
 <!--Intro start-->
-- 🔭 I’m currently wokring on **ReactJs, NextJs, NodeJs , Redux , React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently wokring on **ReactJs, NextJs, NodeJs , Redux , React, React Native, MongoDB**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS and Kubernetes**
 
