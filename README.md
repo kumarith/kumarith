@@ -22,7 +22,8 @@ With 3.5+ years of professional experience in Denmark across SaaS, eCommerce, an
 ### 1. React Component Library  
 A reusable **React + TypeScript + Tailwind CSS component library** built from scratch.  
 - ⚡ Focused on scalability and design consistency  
-- 🎨 Includes buttons, modals, cards, and form components  
+- 🎨 Includes buttons, inputs and form components
+- 🧪 Playwright end-to-end tests for UI reliability  
 - 📦 Published as an NPM package (ready to use in any React app)
 
 ---
@@ -32,6 +33,7 @@ A simple yet elegant **Vue.js weather application** using the OpenWeather API.
 - 🌤️ Real-time weather updates  
 - 📍 Location-based search  
 - 📱 Responsive design for mobile and desktop
+- 🧪 Playwright end-to-end tests for UI reliability
 
 ---
 
