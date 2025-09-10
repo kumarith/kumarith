@@ -32,7 +32,7 @@ A reusable **React + TypeScript + Tailwind CSS component library** built from sc
 ### 2. Vue Weather App  
 A simple yet elegant **Vue.js weather application** using the OpenWeather API.  
 - 🌤️ Real-time weather updates  
-- 📍 Location-based search  
+- 🎛️ Some of the key accessibility features include AIRA Roles and attributes.
 - 📱 Responsive design for mobile and desktop
 - 🧪 Playwright end-to-end tests for UI reliability
 - 🔄 CI/CD pipeline with GitHub Actions (build, test, and publish)
