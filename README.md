@@ -25,6 +25,7 @@ A reusable **React + TypeScript + Tailwind CSS component library** built from sc
 - 🎨 Includes buttons, inputs and form components
 - 🧪 Playwright end-to-end tests for UI reliability  
 - 📦 Published as an NPM package (ready to use in any React app)
+- 🔄 CI/CD pipeline with GitHub Actions (build, test, and publish)
 
 ---
 
@@ -34,6 +35,7 @@ A simple yet elegant **Vue.js weather application** using the OpenWeather API.
 - 📍 Location-based search  
 - 📱 Responsive design for mobile and desktop
 - 🧪 Playwright end-to-end tests for UI reliability
+- 🔄 CI/CD pipeline with GitHub Actions (build, test, and publish)
 
 ---
 
