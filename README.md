@@ -20,7 +20,7 @@ With 3.5+ years of professional experience in Denmark across SaaS, eCommerce, an
 ## 📌 Pinned Projects
 
 ### 1. React Component Library  
-A reusable **React + TypeScript + Tailwind CSS component library** built from scratch.  
+A reusable **React + TypeScript + Tailwind CSS + StoryBook component library** built from scratch.  
 - ⚡ Focused on scalability and design consistency  
 - 🎨 Includes buttons, inputs and form components
 - 🧪 Playwright end-to-end tests for UI reliability  
