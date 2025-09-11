@@ -2,7 +2,7 @@
 
 I'm a Fullstack Developer with a strong frontend focus, passionate about building performant, accessible, and scalable web applications using modern technologies.
 
-With 3.5+ years of professional experience in Denmark across SaaS, eCommerce, and sustainability domains, I specialize in building intuitive UIs with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**, and have hands-on experience with backend tools like **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**.Currently experimenting with LLMs, RAG by integrating AI fetures in fullstack applications in persnal projects.
+With 3.5+ years of professional experience in Denmark across SaaS, eCommerce, and sustainability domains, I specialize in building intuitive UIs with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, **StoryBook** and have hands-on experience with backend tools like **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**.Currently experimenting with LLMs, RAG by integrating AI fetures in fullstack applications in persnal projects.
 
 ---
 
